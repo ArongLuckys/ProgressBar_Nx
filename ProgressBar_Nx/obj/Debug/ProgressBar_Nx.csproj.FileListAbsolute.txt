@@ -1,0 +1,16 @@
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\ProgressBar_Nx.dll
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\ProgressBar_Nx.pdb
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpen.dll
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpen.UF.dll
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpen.Utilities.dll
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpenUI.dll
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpen.xml
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpen.Utilities.xml
+E:\nx2022\NX\ProgressBar_Nx\bin\Debug\NXOpenUI.xml
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.csproj.AssemblyReference.cache
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.csproj.CoreCompileInputs.cache
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\Progress.73E798D1.Up2Date
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.dll
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.pdb
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.Form1.resources
+E:\nx2022\NX\ProgressBar_Nx\obj\Debug\ProgressBar_Nx.csproj.GenerateResource.cache
